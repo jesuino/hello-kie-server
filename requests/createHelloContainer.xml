@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kie-container container-id="hr">
+    <release-id>
+        <group-id>org.mastertheboss.kieserver</group-id>
+        <artifact-id>hello-kie-server</artifact-id>
+        <version>1.0</version>
+    </release-id>
+</kie-container>
